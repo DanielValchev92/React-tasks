@@ -1,0 +1,36 @@
+[{
+        "name": "Banana",
+        "category": "fruit",
+        "price": 1.50,
+        "manufacturer": "Chiquita",
+        "dateOfProduction": "20/12/2021",
+        "quantityInKg": 999
+    },
+
+    {
+        "name": "Orange",
+        "category": "fruit",
+        "price": 1.80,
+        "manufacturer": "Happy Orange",
+        "dateOfProduction": "20/01/2022",
+        "quantityInKg": 876
+    },
+
+    {
+        "name": "Tomato",
+        "category": "vegetable",
+        "price": 1.59,
+        "manufacturer": "Heinz",
+        "dateOfProduction": "29/01/2022",
+        "quantityInKg": 123
+    },
+
+    {
+        "name": "Cucumber",
+        "category": "vegetable",
+        "price": 1.99,
+        "manufacturer": "Green Cucumber",
+        "dateOfProduction": "05/02/2022",
+        "quantityInKg": 342
+    }
+]
